@@ -1,0 +1,196 @@
+Wavefront OBJ material file
+# Contains 17 materials
+
+newmtl Stone
+# Ns 0
+# Ka 0.0941176 0.0941176 0.0941176
+Kd 0.470588 0.470588 0.470588
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Grass_Block
+# Ns 0
+# Ka 0.112941 0.146667 0.0690196
+Kd 0.564706 0.733333 0.345098
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Dirt
+# Ns 0
+# Ka 0.109804 0.0776471 0.0533333
+Kd 0.54902 0.388235 0.266667
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Stationary_Water
+# Ns 0
+# Ka 0.0321569 0.0729412 0.199216
+Kd 0.160784 0.364706 0.996078
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 4
+# d 0.535
+# Tr 0.535
+# Tf 0.91398 0.804882 0.467098
+
+newmtl Gravel
+# Ns 0
+# Ka 0.104314 0.0964706 0.0964706
+Kd 0.521569 0.482353 0.482353
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Gold_Ore
+# Ns 0
+# Ka 0.197647 0.186667 0.0588235
+Kd 0.988235 0.933333 0.294118
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Iron_Ore
+# Ns 0
+# Ka 0.147451 0.12 0.100392
+Kd 0.737255 0.6 0.501961
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Coal_Ore
+# Ns 0
+# Ka 0.0407843 0.0407843 0.0407843
+Kd 0.203922 0.203922 0.203922
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Wood
+# Ns 0
+# Ka 0.138824 0.112941 0.0705882
+Kd 0.694118 0.564706 0.352941
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Leaves
+# Ns 0
+# Ka 0.0447059 0.134118 0.0305882
+Kd 0.223529 0.670588 0.152941
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Lapis_Lazuli_Ore
+# Ns 0
+# Ka 0.0156863 0.0439216 0.100392
+Kd 0.0784314 0.219608 0.501961
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Grass
+# Ns 0
+# Ka 0.0815686 0.127843 0.0478431
+Kd 0.407843 0.639216 0.239216
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Dandelion
+# Ns 0
+# Ka 0.16549 0.173333 0.00392157
+Kd 0.827451 0.866667 0.0196078
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Poppy
+# Ns 0
+# Ka 0.169412 0.0243137 0.0243137
+Kd 0.847059 0.121569 0.121569
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Snow
+# Ns 0
+# Ka 0.188235 0.196078 0.196078
+Kd 0.941176 0.980392 0.980392
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Sugar_Cane
+# Ns 0
+# Ka 0.0894118 0.116078 0.0611765
+Kd 0.447059 0.580392 0.305882
+Ks 0 0 0
+# map_Ka ghv-RGBA.png
+map_Kd ghv-RGBA.png
+map_d ghv-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Emerald_Ore
+# Ns 0
+# Ka 0.112941 0.00235294 0.00235294
+Kd 0.564706 0.0117647 0.0117647
+Ks 0 0 0
+# map_Ka ghv-RGB.png
+map_Kd ghv-RGB.png
+# illum 2
+# d 1
+# Tr 1
